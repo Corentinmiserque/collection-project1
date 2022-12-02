@@ -8,4 +8,4 @@
  Corentin Miserque
 
 # LINK:
-Github page: https://corentinmiserque.github.io/collection-project/
+Github page:https://corentinmiserque.github.io/collection-project1/
