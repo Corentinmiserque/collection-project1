@@ -22,4 +22,4 @@ This repository was created in order to fullfill a request made by one of our co
 
 ![mobile](./asset/mobile.png)
 
-![active](./asset/active.png
+![active](./asset/active.png)
